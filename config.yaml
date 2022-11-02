@@ -1,0 +1,9 @@
+transport:
+  http_addr: ":8080"
+
+db:
+  postgres:
+    addr: "db:5432"
+    db: "mabna"
+    username: "postgres"
+    password: "postgres"
